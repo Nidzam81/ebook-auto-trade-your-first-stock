@@ -1,0 +1,23 @@
+# Generated output files
+ebook.html
+ebook-final.html
+ebook-flipbook.html
+ebook-flipbook.pdf
+flipbook.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
